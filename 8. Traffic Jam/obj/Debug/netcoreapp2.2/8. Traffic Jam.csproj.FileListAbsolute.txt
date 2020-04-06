@@ -1,0 +1,10 @@
+D:\Softuni\StackDemo\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.deps.json
+D:\Softuni\StackDemo\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.runtimeconfig.json
+D:\Softuni\StackDemo\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.runtimeconfig.dev.json
+D:\Softuni\StackDemo\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.dll
+D:\Softuni\StackDemo\8. Traffic Jam\bin\Debug\netcoreapp2.2\8. Traffic Jam.pdb
+D:\Softuni\StackDemo\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Softuni\StackDemo\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Softuni\StackDemo\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.AssemblyInfo.cs
+D:\Softuni\StackDemo\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.dll
+D:\Softuni\StackDemo\8. Traffic Jam\obj\Debug\netcoreapp2.2\8. Traffic Jam.pdb

@@ -1,0 +1,11 @@
+D:\Softuni\StackDemo\StackDemo\bin\Debug\netcoreapp2.2\StackDemo.deps.json
+D:\Softuni\StackDemo\StackDemo\bin\Debug\netcoreapp2.2\StackDemo.runtimeconfig.json
+D:\Softuni\StackDemo\StackDemo\bin\Debug\netcoreapp2.2\StackDemo.runtimeconfig.dev.json
+D:\Softuni\StackDemo\StackDemo\bin\Debug\netcoreapp2.2\StackDemo.dll
+D:\Softuni\StackDemo\StackDemo\bin\Debug\netcoreapp2.2\StackDemo.pdb
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.csprojAssemblyReference.cache
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.csproj.CoreCompileInputs.cache
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.AssemblyInfoInputs.cache
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.AssemblyInfo.cs
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.dll
+D:\Softuni\StackDemo\StackDemo\obj\Debug\netcoreapp2.2\StackDemo.pdb
