@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eTk6fBJG88TJKLiQMNPMniJNqimUE/ii+wFIg14HJvNDOesFSaJniaXzogzj7chpp2rHtXZPBGbsCKWfP6mQxg==",
+  "dgSpecHash": "BY72qINovL4Vr+W9rSSWKdL03S9UgVe0Co/qGALSb+mKWGs9mJqXkESvRIb5mQ6Os317BnatMAXq3JWyacp7ww==",
   "success": true,
   "projectFilePath": "C:\\Users\\el ninio\\source\\repos\\Panda.App\\Panda.App\\Panda.App.csproj",
   "expectedPackageFiles": [
@@ -113,9 +113,9 @@
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.2.4\\microsoft.entityframeworkcore.analyzers.2.2.4.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.design\\2.2.0\\microsoft.entityframeworkcore.design.2.2.0.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\2.2.0\\microsoft.entityframeworkcore.inmemory.2.2.0.nupkg.sha512",
-    "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\2.2.0\\microsoft.entityframeworkcore.relational.2.2.0.nupkg.sha512",
-    "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\2.2.0\\microsoft.entityframeworkcore.sqlserver.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.tools\\2.2.0\\microsoft.entityframeworkcore.tools.2.2.0.nupkg.sha512",
+    "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\2.2.4\\microsoft.entityframeworkcore.relational.2.2.4.nupkg.sha512",
+    "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\2.2.4\\microsoft.entityframeworkcore.sqlserver.2.2.4.nupkg.sha512",
+    "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\2.2.0\\microsoft.entityframeworkcore.tools.2.2.0.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.2.0\\microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.extensions.caching.sqlserver\\2.2.0\\microsoft.extensions.caching.sqlserver.2.2.0.nupkg.sha512",
