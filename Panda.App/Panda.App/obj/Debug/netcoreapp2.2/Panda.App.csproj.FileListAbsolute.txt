@@ -13,7 +13,6 @@ C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Panda
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.TagHelpers.input.cache
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.TagHelpers.output.cache
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorCoreGenerate.cache
-C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Error.cshtml.g.cs
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\el ninio\source\repos\Panda.App\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs

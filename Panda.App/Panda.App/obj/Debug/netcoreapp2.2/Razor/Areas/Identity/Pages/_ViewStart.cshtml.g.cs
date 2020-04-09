@@ -13,18 +13,18 @@ namespace Panda.App.Areas.Identity.Pages
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-#line 2 "C:\Users\el ninio\source\repos\Panda.App\Panda.App\Areas\Identity\Pages\_ViewImports.cshtml"
+#line 1 "C:\Users\el ninio\source\repos\Panda.App\Panda.App\Areas\Identity\Pages\_ViewImports.cshtml"
 using Panda.App.Areas.Identity;
 
 #line default
 #line hidden
-#line 3 "C:\Users\el ninio\source\repos\Panda.App\Panda.App\Areas\Identity\Pages\_ViewImports.cshtml"
+#line 2 "C:\Users\el ninio\source\repos\Panda.App\Panda.App\Areas\Identity\Pages\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Identity;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"43e0bf0d61f9a553d2f59156ad2cdff9b3bdd158", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"532134ad7c55e926691468295bdf0d17cd07a516", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"768caf3ecab2980b5a9809773f28dc6808d6d5d3", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     public class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

@@ -9,11 +9,26 @@ namespace Panda.Data
     {
         public DbSet<Package> Packages { get; set; }
 
+        public DbSet<Receipt> Receipts { get; set; }
+
+        public DbSet<PackageStatus> PackageStatus { get; set; }
         public PandaDbContext(DbContextOptions<PandaDbContext> options) : base(options)
         {
         }
 
+        public PandaDbContext()
+        {
 
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+
+            optionsBuilder.UseSqlServer(@"Server=.;Database=PandaAppDB;Trusted_Connection=true;");
+
+
+            base.OnConfiguring(optionsBuilder);
+        }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

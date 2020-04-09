@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
@@ -71,13 +72,17 @@ namespace Panda.App.Areas.Identity.Pages.Account
             if (ModelState.IsValid)
             {
                 var user = new PandaUser { UserName = Input.Username, Email = Input.Email };
+
+                // TODO: Make Admin
+
                 var result = await _userManager.CreateAsync(user, Input.Password);
+
+
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
 
                     await _signInManager.SignInAsync(user, isPersistent: false);
-
                     return LocalRedirect(returnUrl);
                 }
                 foreach (var error in result.Errors)
