@@ -1,5 +1,4 @@
 ﻿using LibraryData.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,7 +13,7 @@ namespace Library.ViewModels.Catalog
         public string Type { get; set; }
         public int Year { get; set; }
         public string ISBN { get; set; }
-        public string DeweyCallNumber { get; set; }
+        public string Dewey { get; set; }
         public string Status { get; set; }
         public decimal Cost { get; set; }
         public string CurrentLocation { get; set; }

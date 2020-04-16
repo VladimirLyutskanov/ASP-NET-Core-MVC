@@ -38,3 +38,5 @@ D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryServices.dll
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryServices.pdb
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Index.cshtml.g.cs
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Detail.cshtml.g.cs
+D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Checkout.cshtml.g.cs
+D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Hold.cshtml.g.cs
