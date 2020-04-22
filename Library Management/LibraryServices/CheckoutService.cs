@@ -107,7 +107,7 @@ namespace LibraryServices
             }
 
             //otherwise update item status to "Available"           
-            context.Update(item);
+           
             item.Status = context.Statuses.FirstOrDefault(status => status.Name=="Available");
 
             context.SaveChanges();
