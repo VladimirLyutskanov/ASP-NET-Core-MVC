@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rg2Q2I/ulXjVMMRnCLjxg8sfEZ9imArWF/fjZgCAllFLHumMkondyDAxhDVF8XoJxvDU/oTf9l+WKBGY8C/FZQ==",
+  "dgSpecHash": "avMh4Gnsw05712WZD7Gpf83oT8SluW1YUj/UFsBw1nAPKADeXKzcwhmCwxMf+0wKuw+VW/mxv0xIPfoUc9LPMg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\Library\\Library\\Library.csproj",
+  "projectFilePath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\el ninio\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
