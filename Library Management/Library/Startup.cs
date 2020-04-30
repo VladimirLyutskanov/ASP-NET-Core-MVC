@@ -31,9 +31,10 @@ namespace Library
             services.AddDbContext<LibraryDbContext>(options =>
             options.UseSqlServer(this.Configuration.GetConnectionString("DefaultConnection"),
             b => b.MigrationsAssembly("Library")));
-            //services.AddSingleton(Configuration);
+            services.AddSingleton(Configuration);
             services.AddScoped<ILibraryAsset, LibraryAssetService>();
             services.AddScoped<ICheckout, CheckoutService>();
+            services.AddScoped<IPatron, PatronService>();
             services.AddMvc();
          
         }

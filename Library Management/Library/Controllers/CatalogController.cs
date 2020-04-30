@@ -70,7 +70,7 @@ namespace Library.Controllers
             var currentHolds = checkouts.GetCurrentHolds(id)
                 .Select(a => new AssetHoldModel
             {
-                HoldPlaced = checkouts.GetCurrentHoldPlaced(a.Id).ToString("d"),
+                HoldPlaced = checkouts.GetCurrentHoldPlaced(a.Id).ToString(),
                 PatronName = checkouts.GetCurrentHoldPatronName(a.Id)
             });
             var model = new AssetDetailModel

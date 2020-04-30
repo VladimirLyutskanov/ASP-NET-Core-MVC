@@ -3517,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj",
+      "projectUniqueName": "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj",
       "projectName": "LibraryServices",
-      "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj",
+      "projectPath": "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj",
       "packagesPath": "C:\\Users\\el ninio\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\obj\\",
+      "outputPath": "D:\\repos\\Library\\LibraryServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3540,8 +3540,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj": {
-              "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj"
+            "D:\\repos\\Library\\LibraryData\\LibraryData.csproj": {
+              "projectPath": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj"
             }
           }
         }

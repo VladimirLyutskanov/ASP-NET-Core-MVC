@@ -81,34 +81,50 @@ namespace LibraryServices
 
         }
 
-        public void CheckInItem(int assetId)
+        public void CheckInItem(int id)
         {
             var now = DateTime.Now;
-            var item = context.LibraryAssets.FirstOrDefault(a => a.Id == assetId);
+
+            var item = context.LibraryAssets
+                .First(a => a.Id == id);
+
             context.Update(item);
 
             // remove any existing checkouts on the item
-            RemoveExistingCheckouts(assetId);
+            var checkout = context.Checkouts
+                .Include(c => c.LibraryAsset)
+                .Include(c => c.LibraryCard)
+                .FirstOrDefault(a => a.LibraryAsset.Id == id);
+            if (checkout != null) context.Remove(checkout);
 
-            //close any existing checkout histoty
-            CloseExistingCheckoutHistory(assetId, now);
-
-            //look for existing holds on the item
-            var currentHolds = context.Holds
+            // close any existing checkout history
+            var history = context.CheckoutHistories
                 .Include(h => h.LibraryAsset)
                 .Include(h => h.LibraryCard)
-                .Where(h => h.LibraryAsset.Id == assetId);
+                .FirstOrDefault(h =>
+                    h.LibraryAsset.Id == id
+                    && h.CheckedIn == null);
+            if (history != null)
+            {
+                context.Update(history);
+                history.CheckedIn = now;
+            }
 
-            // if there are holds checkout the item to the librarycard with the earliest hold
+            // look for current holds
+            var currentHolds = context.Holds
+                .Include(a => a.LibraryAsset)
+                .Include(a => a.LibraryCard)
+                .Where(a => a.LibraryAsset.Id == id);
+
+            // if there are current holds, check out the item to the earliest
             if (currentHolds.Any())
             {
-                CheckoutForEarliestHold(assetId, currentHolds);
+                CheckoutForEarliestHold(id, currentHolds);
                 return;
             }
 
-            //otherwise update item status to "Available"           
-           
-            item.Status = context.Statuses.FirstOrDefault(status => status.Name=="Available");
+            // otherwise, set item status to available
+            item.Status = context.Statuses.FirstOrDefault(a => a.Name == "Available");
 
             context.SaveChanges();
         }

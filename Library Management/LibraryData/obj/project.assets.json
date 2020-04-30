@@ -3646,11 +3646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj",
+      "projectUniqueName": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj",
+      "projectPath": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj",
       "packagesPath": "C:\\Users\\el ninio\\.nuget\\packages\\",
-      "outputPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\obj\\",
+      "outputPath": "D:\\repos\\Library\\LibraryData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

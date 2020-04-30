@@ -10,15 +10,3 @@ D:\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfo.cs
 D:\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.dll
 D:\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.pdb
 D:\repos\Library\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.genruntimeconfig.cache
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.deps.json
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.json
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.dev.json
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.dll
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.pdb
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csprojAssemblyReference.cache
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csproj.CoreCompileInputs.cache
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfoInputs.cache
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfo.cs
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.dll
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.pdb
-D:\Softuni\ASP NET Core MVC\Library Management\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.genruntimeconfig.cache

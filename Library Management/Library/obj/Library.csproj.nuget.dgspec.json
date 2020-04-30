@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\Library.csproj": {}
+    "D:\\repos\\Library\\Library\\Library.csproj": {}
   },
   "projects": {
-    "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj": {
+    "D:\\repos\\Library\\LibraryData\\LibraryData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj",
+        "projectUniqueName": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj",
         "projectName": "LibraryData",
-        "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj",
+        "projectPath": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj",
         "packagesPath": "C:\\Users\\el ninio\\.nuget\\packages\\",
-        "outputPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\obj\\",
+        "outputPath": "D:\\repos\\Library\\LibraryData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj": {
+    "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj",
+        "projectUniqueName": "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj",
         "projectName": "LibraryServices",
-        "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj",
+        "projectPath": "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj",
         "packagesPath": "C:\\Users\\el ninio\\.nuget\\packages\\",
-        "outputPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\obj\\",
+        "outputPath": "D:\\repos\\Library\\LibraryServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj": {
-                "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj"
+              "D:\\repos\\Library\\LibraryData\\LibraryData.csproj": {
+                "projectPath": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\Library.csproj": {
+    "D:\\repos\\Library\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\Library.csproj",
+        "projectUniqueName": "D:\\repos\\Library\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\Library.csproj",
+        "projectPath": "D:\\repos\\Library\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\el ninio\\.nuget\\packages\\",
-        "outputPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\Library\\obj\\",
+        "outputPath": "D:\\repos\\Library\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -164,11 +164,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj": {
-                "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryData\\LibraryData.csproj"
+              "D:\\repos\\Library\\LibraryData\\LibraryData.csproj": {
+                "projectPath": "D:\\repos\\Library\\LibraryData\\LibraryData.csproj"
               },
-              "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj": {
-                "projectPath": "D:\\Softuni\\ASP NET Core MVC\\Library Management\\LibraryServices\\LibraryServices.csproj"
+              "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj": {
+                "projectPath": "D:\\repos\\Library\\LibraryServices\\LibraryServices.csproj"
               }
             }
           }
