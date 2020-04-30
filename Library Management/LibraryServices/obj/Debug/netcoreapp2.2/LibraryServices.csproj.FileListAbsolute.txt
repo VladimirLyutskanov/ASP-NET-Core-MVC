@@ -10,3 +10,15 @@ D:\repos\Library\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.Assembl
 D:\repos\Library\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.csproj.CopyComplete
 D:\repos\Library\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.dll
 D:\repos\Library\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.pdb
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\bin\Debug\netcoreapp2.2\LibraryServices.deps.json
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\bin\Debug\netcoreapp2.2\LibraryServices.dll
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\bin\Debug\netcoreapp2.2\LibraryServices.pdb
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\bin\Debug\netcoreapp2.2\LibraryData.dll
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\bin\Debug\netcoreapp2.2\LibraryData.pdb
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.csprojAssemblyReference.cache
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.csproj.CoreCompileInputs.cache
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.AssemblyInfoInputs.cache
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.AssemblyInfo.cs
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.csproj.CopyComplete
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.dll
+D:\Softuni\ASP NET Core MVC\Library Management\LibraryServices\obj\Debug\netcoreapp2.2\LibraryServices.pdb
