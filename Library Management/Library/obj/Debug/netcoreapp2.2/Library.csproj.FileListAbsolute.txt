@@ -33,7 +33,6 @@ D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Library.genruntimeconfig.cache
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Library.csproj.CopyComplete
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryData.dll
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryData.pdb
-D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Library.csproj.CoreCompileInputs.cache
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryServices.dll
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\LibraryServices.pdb
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Index.cshtml.g.cs
@@ -43,3 +42,6 @@ D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Hold.cshtml
 D:\repos\Library\Library\bin\Debug\netcoreapp2.2\libman.json
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Patron\Index.cshtml.g.cs
 D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Patron\Detail.cshtml.g.cs
+D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Library.csproj.CoreCompileInputs.cache
+D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Branch\Index.cshtml.g.cs
+D:\repos\Library\Library\obj\Debug\netcoreapp2.2\Razor\Views\Branch\Detail.cshtml.g.cs
